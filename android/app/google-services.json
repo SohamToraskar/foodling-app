@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "845882170957",
+    "firebase_url": "https://foodling-c8a88.firebaseio.com",
+    "project_id": "foodling-c8a88",
+    "storage_bucket": "foodling-c8a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845882170957:android:0aed1e4f92ad2620",
+        "android_client_info": {
+          "package_name": "com.foodlingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAQRz2_Z3mK6yg85gJJ3EWKFHkgqUXXgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845882170957-68ks6irtsm6qhdbiedao22ajcfccd9cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
